@@ -1,3 +1,13 @@
+
+
+#  Spring Boot et Swagger
+
+## Structure du projet 
+
+<img width="676" height="866" alt="Screenshot 2026-03-10 175521" src="https://github.com/user-attachments/assets/0a207045-c3e3-43fd-b429-9afce65596a0" />
+
+
+
 ###  Test de l’ajout d’un étudiant (POST)
 
 <img width="1539" height="992" alt="post save" src="https://github.com/user-attachments/assets/fef101d9-db14-4fdb-8f4e-edc251e3d0b6" />
