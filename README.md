@@ -20,6 +20,10 @@
 
 <img width="1256" height="1019" alt="get byYear" src="https://github.com/user-attachments/assets/6cad48f0-47ad-408a-a7c1-1457ca5f8b19" />
 
+### base de donnee 
+<img width="1362" height="875" alt="Screenshot 2026-03-10 153658" src="https://github.com/user-attachments/assets/c98fda0d-3763-4a10-b33e-c59aec2018de" />
+
+
 
 ### Résultats des tests unitaires
 
